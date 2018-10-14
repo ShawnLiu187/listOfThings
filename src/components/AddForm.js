@@ -12,10 +12,14 @@ export default class AddForm extends Component{
 
     savePlayer = (ev) => {
         ev.preventDefault();
-        let newPlayer = {id:Date.now(), name:this.newName.current.value, position:this.newPosition.current.value};
-        this.props.addPlayer(newPlayer);
-        this.newName.current.value = "";
-        this.newPosition.current.value = "";
+        if(this.newName.current.value && this.newPosition.current.value){
+            let newPlayer = {id:Date.now(), name:this.newName.current.value, position:this.newPosition.current.value};
+            this.props.addPlayer(newPlayer);
+            this.newName.current.value = "";
+            this.newPosition.current.value = "";
+        }else{
+            alert("Please fill out the form.");
+        }
     }
 
     render(){

@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './Item.css';
+import PropTypes from 'prop-types'
 
 export default class Item extends Component{
     constructor(){
@@ -46,5 +47,21 @@ export default class Item extends Component{
 
             
         )
+    }
+}
+
+Item.propTypes = {
+    player: PropTypes.shape({
+        name: PropTypes.string,
+        position: PropTypes.string,
+        id: PropTypes.number.isRequired
+    })
+}
+
+Item.defaultProps = {
+    player: {
+        name: "Unknown",
+        position: "Sixth Man",
+        id: 0
     }
 }
