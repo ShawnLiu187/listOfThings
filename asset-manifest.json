@@ -1,13 +1,13 @@
 {
-  "main.css": "/ShawnLiu187/listOfThings/static/css/main.6cc31157.chunk.css",
-  "main.js": "/ShawnLiu187/listOfThings/static/js/main.37bab577.chunk.js",
-  "main.js.map": "/ShawnLiu187/listOfThings/static/js/main.37bab577.chunk.js.map",
-  "static/js/1.4fd91c74.chunk.js": "/ShawnLiu187/listOfThings/static/js/1.4fd91c74.chunk.js",
-  "static/js/1.4fd91c74.chunk.js.map": "/ShawnLiu187/listOfThings/static/js/1.4fd91c74.chunk.js.map",
-  "runtime~main.js": "/ShawnLiu187/listOfThings/static/js/runtime~main.4346a61a.js",
-  "runtime~main.js.map": "/ShawnLiu187/listOfThings/static/js/runtime~main.4346a61a.js.map",
-  "static/css/main.6cc31157.chunk.css.map": "/ShawnLiu187/listOfThings/static/css/main.6cc31157.chunk.css.map",
-  "index.html": "/ShawnLiu187/listOfThings/index.html",
-  "precache-manifest.0f6e0dd558f1f6a9e802024e6e2b8c35.js": "/ShawnLiu187/listOfThings/precache-manifest.0f6e0dd558f1f6a9e802024e6e2b8c35.js",
-  "service-worker.js": "/ShawnLiu187/listOfThings/service-worker.js"
+  "main.css": "/listOfThings/static/css/main.6cc31157.chunk.css",
+  "main.js": "/listOfThings/static/js/main.a82883b8.chunk.js",
+  "main.js.map": "/listOfThings/static/js/main.a82883b8.chunk.js.map",
+  "static/js/1.4fd91c74.chunk.js": "/listOfThings/static/js/1.4fd91c74.chunk.js",
+  "static/js/1.4fd91c74.chunk.js.map": "/listOfThings/static/js/1.4fd91c74.chunk.js.map",
+  "runtime~main.js": "/listOfThings/static/js/runtime~main.dbeddd85.js",
+  "runtime~main.js.map": "/listOfThings/static/js/runtime~main.dbeddd85.js.map",
+  "static/css/main.6cc31157.chunk.css.map": "/listOfThings/static/css/main.6cc31157.chunk.css.map",
+  "index.html": "/listOfThings/index.html",
+  "precache-manifest.7debffb92f8e5bb29b58ff2b65d734e3.js": "/listOfThings/precache-manifest.7debffb92f8e5bb29b58ff2b65d734e3.js",
+  "service-worker.js": "/listOfThings/service-worker.js"
 }
