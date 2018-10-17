@@ -1,14 +1,10 @@
-.split {
-    /* height: 100%; */
+
+.addForm {
     width: 50%;
     position: fixed;
     z-index: 1;
     top: 7.5rem;
     overflow-x: hidden;
-    /* padding-top: 20px; */
-}
-
-.addForm {
     box-sizing: border-box;
     right: 0;
     padding-left: 5px;
