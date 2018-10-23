@@ -14,7 +14,7 @@ class App extends Component {
 
 deletePlayer = (playerId) => {
   let newPlayers = this.state.players.filter((item) => {
-      if(playerId != item.id){
+      if(playerId !== item.id){
           return true;
       }
   });
